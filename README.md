@@ -10,4 +10,4 @@ create a blank repository with readme.md, .gitignore and license file. checkout 
 _Status_ : _**Done**_
 
 ## v0.0.2
-
+convert the project to webapp through maven. build a war file using maven and deploy it to external tomcat server. once war is deployed sucessfully. user should be able to access the url "http://localhost:8080/everydayJAXRSstory/services" and it should land the user to welcome page showing a welcome note "Welcome to everydayJAXRSstory !!". Use java based deployment configurarion instead of web.xml.
