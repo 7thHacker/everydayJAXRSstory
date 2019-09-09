@@ -11,4 +11,5 @@ _Status_ : _**Done**_
 
 ## v0.0.2
 Build a war file using MAVEN and deploy it to external TOMCAT server. once war is deployed successfully. user should be able to access the URL "http://localhost:8080/everydayJAXRSstory/services/welcome" and it should land the user to welcome page showing a welcome note "Welcome to everydayJAXRSstory !!". Use java for deployment configuration instead of web.xml and use JAXRS and Jersey for the implementation instead of SERVLET.
+
 _Status_ : 
